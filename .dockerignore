@@ -1,0 +1,32 @@
+# IDE/Editor project files
+**/.vscode
+
+.git/
+Dockerfile
+
+.idea
+.idea/workspace.xml
+
+# Docker Mac
+.DS_Store
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache
+.pytest_cache
+.hypothesis
